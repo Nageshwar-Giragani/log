@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import Register from '../Register'
+
 import { Link, Redirect } from 'react-router-dom'
 import Dashboard from '../Dashboard';
 import Contact from './Contact';
